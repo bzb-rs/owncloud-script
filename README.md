@@ -4,4 +4,4 @@ download the script:
 wget https://raw.githubusercontent.com/linuxsyr/owncloud/main/owncloud.bash
 chmod +x owncloud.bash 
 sudo bash ./owncloud.bash
-you are done
+
